@@ -1,0 +1,6 @@
+{
+  "name": "Learn Bangla",
+  "description": "Bangla Learning App with divine Shiva blessings, vocabulary cards, pronunciation, interactive quiz, and alphabet guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
